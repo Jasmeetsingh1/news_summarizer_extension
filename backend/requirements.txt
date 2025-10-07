@@ -1,0 +1,8 @@
+Flask
+flask-cors
+newspaper3k
+torch
+transformers
+sentencepiece
+protobuf
+lxml_html_clean
