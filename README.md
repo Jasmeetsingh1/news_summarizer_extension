@@ -27,7 +27,7 @@ A browser extension that summarizes English news articles into a concise English
 ---
 
 ## 📂 Project Structure
-
+```
 news-summarizer-project/
 ├── backend/
 │   ├── app.py              # Main Flask server
@@ -58,8 +58,7 @@ news-summarizer-project/
 │   └── vite.config.js      # Configuration file for the Vite builder
 │
 └── README.md                 # Your project's documentation
----
-
+```
 ## 🚀 Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
